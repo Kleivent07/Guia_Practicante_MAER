@@ -22,7 +22,7 @@
   #text(28pt, weight: "bold", fill: rgb("#003366"))[¡Bienvenido al Equipo! 👋] \
   #v(1em)
   #text(18pt)[Manual de Inducción TI - *Mas Errázuriz*] \
-  #text(13pt, fill: gray)[Guía de Operaciones y Mesa de Ayuda] \
+  #text(13pt, fill: gray)[Guía de Operaciones y Mesa de Ayuda\ 2026] \
   #v(3em)
   #rect(stroke: 1.5pt + rgb("#003366"), inset: 20pt, radius: 10pt, fill: rgb("#f0f8ff"))[
     #set align(left)
