@@ -234,13 +234,13 @@ Generalmente, verás los grupos escritos con prefijos. Aquí te explico qué sig
     text(size: 20pt)[⚠️],
     [
       *¡Cuidado con los grupos Heredados!* \
-      Si un usuario se cambia de obra, recuerda que *debes quitarlo* de los grupos de la obra anterior antes de agregarlo a la nueva. Mantener grupos viejos es un riesgo de seguridad de la información.
+      Si un usuario se cambia de obra, recuerda que *debes quitarlo* de los grupos de la obra anterior antes de agregarlo a la nueva. Mantener grupos viejos es un riesgo de seguridad de la información. 
     ]
   )
 ]
 #v(1em)
 #table(
-  columns: (0.7fr, 1.4fr, 1.3fr),
+  columns: (0.8fr, 1.4fr, 1.3fr),
   inset: 10pt,
   align: horizon,
   // Diseño limpio: Azul oscuro para el encabezado y filas alternas grises
